@@ -14,6 +14,7 @@
         "group": "Diagnostics & Repairs",
         "pages": [
           "condenser-fan-motor-replacement",
+          "contactor-replacement",
           "frozen-evaporator-coil"
         ]
       },
@@ -27,8 +28,10 @@
       {
         "group": "More Topics",
         "pages": [
+          "circuit-board",
           "split-system-air-conditioner",
           "drainage-system",
+          "cooling-loss-diagnosis",
           "high-head-pressure"
         ]
       }
