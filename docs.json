@@ -11,10 +11,18 @@
   "navigation": {
     "groups": [
       {
+        "group": "Systems & Equipment",
+        "pages": [
+          "ductless-mini-split-system-repair"
+        ]
+      },
+      {
         "group": "Diagnostics & Repairs",
         "pages": [
+          "r-410a-refrigerant-service",
           "condenser-fan-motor-replacement",
           "contactor-replacement",
+          "ac-condensate-drain-line",
           "frozen-evaporator-coil"
         ]
       },
@@ -23,6 +31,13 @@
         "pages": [
           "ac-short-cycling",
           "hvac-repair-warranty"
+        ]
+      },
+      {
+        "group": "AC Maintenance",
+        "pages": [
+          "cooling-thermostat-calibration",
+          "system-calibration"
         ]
       },
       {
