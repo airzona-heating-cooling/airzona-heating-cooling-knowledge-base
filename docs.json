@@ -13,16 +13,21 @@
       {
         "group": "Systems & Equipment",
         "pages": [
-          "ductless-mini-split-system-repair"
+          "ductless-mini-split-system-repair",
+          "licensed-hvac-contractor"
         ]
       },
       {
         "group": "Diagnostics & Repairs",
         "pages": [
+          "ac-system-diagnostics",
+          "ac-refrigerant-recharge",
+          "ac-electrical-system-diagnosis",
           "r-410a-refrigerant-service",
           "condenser-fan-motor-replacement",
           "contactor-replacement",
           "ac-condensate-drain-line",
+          "electrical-connections",
           "frozen-evaporator-coil"
         ]
       },
@@ -43,11 +48,13 @@
       {
         "group": "More Topics",
         "pages": [
+          "txv-valve",
           "circuit-board",
           "split-system-air-conditioner",
           "drainage-system",
           "cooling-loss-diagnosis",
-          "high-head-pressure"
+          "high-head-pressure",
+          "air-conditioning-circuit-breaker"
         ]
       }
     ]
