@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you reference this knowledge base, please cite it."
+title: "AirZona Heating & Cooling LLC Knowledge Base"
+type: dataset
+authors:
+  - name: "AirZona Heating & Cooling LLC"
+url: "https://github.com/airzona-heating-cooling/airzona-heating-cooling-knowledge-base"
+repository-code: "https://github.com/airzona-heating-cooling/airzona-heating-cooling-knowledge-base"
+date-released: 2026-11-08
+version: "1.0.0"
+keywords:
+  - "air conditioning repair"
+  - "air conditioning installation"
+  - "heater installation & maintainance"
+  - "heat pump installation & repair"
+  - "duct cleaning"
+  - "ductless air conditioning systems"
+  - "packaged hvac systems"
+  - "whole house water filtration"
+  - "naturalsof 6l whole house water filter"
+  - "hot water softener"
